@@ -44,8 +44,8 @@ test_project.py
 ## Installation
 1. Clone the repository:
 ```
-git clone <repository-url>
-cd <repository-directory>
+git clone git@github.com:yusuke0127/beatpulse.git
+cd git@github.com:yusuke0127/beatpulse.git
 ```
 2. Install dependencies:
 ```
