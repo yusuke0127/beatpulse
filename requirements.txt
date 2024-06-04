@@ -1,0 +1,7 @@
+# Write here all dependecies installled
+python-dotenv
+pytest
+inflect
+spotipy
+# pydantic v2 breaks inflect
+pydantic<=1.10.10
